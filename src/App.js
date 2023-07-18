@@ -9,7 +9,7 @@ const message=[
 
 
 
-export default function App(){
+export default function App(e){
  
     const [step,setStep]=useState(2);
   
